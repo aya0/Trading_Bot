@@ -1,0 +1,25 @@
+READE ME :-
+
+
+How does the bot works?
+    >The bot going to scane the website and take the data form there live then predicte
+        which time is the best time for buy or sell 
+    >The bot going to works at gold market only in the first 
+
+
+--------------------------------------------------------------------
+
+technology to use ?
+python as Languge 
+pip install requests :-  For take html form website  
+pip install beautifulsoup4 :- To parse Data and extracte it 
+then i can use this data to train the model 
+
+-------------------------------------------------------------------
+
+Needs To Make the Bot ?
+1- Know more about gold market 
+2- know how does trading market works 
+3- find best website to take date from 
+4- To make sure of the date
+ 
